@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec065f91e58b49bd81291c6f01cd7f48, type: 3}
+  m_Name: EyeShadowConfig 4
+  m_EditorClassIdentifier: 
+  <EyeShadow>k__BackingField: {fileID: -283848679355503933, guid: 2f1c6def376e13c47bcb93d5b64fc984, type: 3}
+  <MakeupLeftEyeShadow>k__BackingField: {fileID: -283848679355503933, guid: d3fd4627a525db5448d3c4480a9effa6, type: 3}
+  <MakeupRightEyeShadow>k__BackingField: {fileID: 2562566238168993972, guid: d3fd4627a525db5448d3c4480a9effa6, type: 3}

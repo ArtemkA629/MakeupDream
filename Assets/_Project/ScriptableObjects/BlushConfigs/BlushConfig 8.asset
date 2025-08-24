@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97a16c6d55484627af6b526bcd9e114b, type: 3}
+  m_Name: BlushConfig 8
+  m_EditorClassIdentifier: 
+  <Blush>k__BackingField: {fileID: -8124131503724612360, guid: 6df248d63fa71e04d8f15a455d2e1b68, type: 3}
+  <MakeupBlush>k__BackingField: {fileID: 244248382415328702, guid: 646e1e823c5c308489185240707aa01d, type: 3}
