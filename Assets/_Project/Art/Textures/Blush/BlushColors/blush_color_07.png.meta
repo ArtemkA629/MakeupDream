@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blush_color_07_0: -1254107489049226150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

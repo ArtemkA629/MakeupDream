@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lipstick_06_0: 8831518379824529241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
